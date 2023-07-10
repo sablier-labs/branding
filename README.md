@@ -77,6 +77,8 @@ Sablier's main color is a vibrant orange color on a dark blue color scheme. Sinc
 - Black (`#000000`) is never used
 - For the dark theme, long text should never be in full white (use `Gray 100 ... 400`)
 
+![Sablier NFTs](/template/banner-nft.png)
+
 ## NFT
 
 Every Sablier V2 stream is represented by a Hourglass NFT. Check out the [/nft](/nft/) directory for some examples of our dynamically generated designs.
