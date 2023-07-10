@@ -8,18 +8,18 @@ Don't combine the Sablier name or logos, or any portion of any of them, with any
 
 ## Variations
 
-| Type                                    | Location                                 |
-| --------------------------------------- | ---------------------------------------- |
-| Full logo, wide - PNG                   | ➡️ [/logo/wide/png](/logo/wide/png/)     |
-| Full logo, wide - SVG                   | ➡️ [/logo/wide/svg](/logo/wide/svg/)     |
-| Full logo, square - PNG                 | ➡️ [/logo/square/png](/logo/square/png/) |
-| Full logo, square - SVG                 | ➡️ [/logo/square/svg](/logo/square/svg/) |
-| Icon - PNG                              | ➡️ [/icon/png](/icon/png)                |
-| Icon - SVG                              | ➡️ [/icon/svg](/icon/svg)                |
-| Print (PDFs, PSDs)                      | ➡️ [/print](/print)                      |
-| Template (Banners, Covers)              | ➡️ [/template](/template)                |
-| NFT (Examples)                          | ➡️ [/nft](/nft)                          |
-| Other (Stream Circle, Contextual Icons) | ➡️ [/other](/other)                      |
+| Type                                    | Location                              |
+| --------------------------------------- | ------------------------------------- |
+| Full logo, wide - PNG                   | [/logo/wide/png](/logo/wide/png/)     |
+| Full logo, wide - SVG                   | [/logo/wide/svg](/logo/wide/svg/)     |
+| Full logo, square - PNG                 | [/logo/square/png](/logo/square/png/) |
+| Full logo, square - SVG                 | [/logo/square/svg](/logo/square/svg/) |
+| Icon - PNG                              | [/icon/png](/icon/png)                |
+| Icon - SVG                              | [/icon/svg](/icon/svg)                |
+| Print (PDFs, PSDs)                      | [/print](/print)                      |
+| Template (Banners, Covers)              | [/template](/template)                |
+| NFT (Examples)                          | [/nft](/nft)                          |
+| Other (Stream Circle, Contextual Icons) | [/other](/other)                      |
 
 ### Examples
 
@@ -86,6 +86,12 @@ Every Sablier V2 stream is represented by a Hourglass NFT. Check out the [/nft](
 | Streaming                  | Settled                     | Generic Art                            |
 | -------------------------- | --------------------------- | -------------------------------------- |
 | ![NFT](/nft/nft-green.png) | ![NFT](/nft/nft-purple.png) | ![NFT Art](/nft/nft-hourglass-art.png) |
+
+## Video
+
+Sablier V2 has an official promotional video that collaborators can use to present the product in articles or other visual content pieces.
+
+[![Introducing Sablier V2](/other/youtube-cover.png)](https://youtu.be/0XvJ112Jf1k "Introducing Sablier V2")
 
 ## Support
 
