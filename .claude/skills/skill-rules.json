@@ -1,0 +1,60 @@
+{
+  "brand-guidelines": {
+    "type": "domain",
+    "enforcement": "suggest",
+    "priority": "medium",
+    "description": "Sablier brand guidelines reference for colors, logos, typography, and visual identity",
+    "promptTriggers": {
+      "keywords": [
+        "brand",
+        "branding",
+        "logo",
+        "logos",
+        "color",
+        "colors",
+        "colour",
+        "colours",
+        "palette",
+        "sablier",
+        "typography",
+        "font",
+        "fonts",
+        "typeface",
+        "design",
+        "icon",
+        "icons",
+        "asset",
+        "assets",
+        "guidelines",
+        "style guide",
+        "visual identity",
+        "gradient",
+        "hex",
+        "dark theme",
+        "nft",
+        "hourglass"
+      ],
+      "intentPatterns": [
+        "(what|which|show|find|get|lookup|use).*?(color|colour|hex|palette)",
+        "(what|which|where).*?(logo|icon)",
+        "brand.*?(color|colour|logo|guideline|identity)",
+        "sablier.*?(color|colour|logo|brand)",
+        "design.*?(system|guideline|asset)",
+        "(primary|secondary).*?(color|gradient)",
+        "dark.*?(theme|palette|background)"
+      ]
+    },
+    "filePathTriggers": {
+      "patterns": [
+        "**/*.svg",
+        "**/*.png",
+        "**/icon/**",
+        "**/logo/**",
+        "**/template/**",
+        "**/nft/**",
+        "**/print/**",
+        "**/other/**"
+      ]
+    }
+  }
+}
