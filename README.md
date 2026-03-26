@@ -1,10 +1,15 @@
+# Sablier Branding
+
 ![Sablier Branding](/template/banner-branding.png)
 
-The official brand assets for any integrations, promotional or marketing materials.
+The official brand assets for [Sablier](https://sablier.com) — logos, icons, colors, templates, and NFT designs for
+integrations, promotional, or marketing materials.
 
 ## Guidelines
 
-Don't combine the Sablier name or logos, or any portion of any of them, with any other logo, company name, mark, or generic terms, outside of pre-approved partnerships and collaborations. Please don't edit, modify, distort, rotate, or recolor the logo.
+Don't combine the Sablier name or logos, or any portion of any of them, with any other logo, company name, mark, or
+generic terms, outside of pre-approved partnerships and collaborations. Please don't edit, modify, distort, rotate, or
+recolor the logo.
 
 ## Variations
 
@@ -16,10 +21,12 @@ Don't combine the Sablier name or logos, or any portion of any of them, with any
 | Full logo, square - SVG                 | [/logo/square/svg](/logo/square/svg/) |
 | Icon - PNG                              | [/icon/png](/icon/png)                |
 | Icon - SVG                              | [/icon/svg](/icon/svg)                |
+| Favicon                                 | [/icon/favicon](/icon/favicon)        |
+| Bob (Mascot)                            | [/logo/bob](/logo/bob)                |
 | Print (PDFs, PSDs)                      | [/print](/print)                      |
 | Template (Banners, Covers)              | [/template](/template)                |
 | NFT (Examples)                          | [/nft](/nft)                          |
-| Other (Stream Circle, Contextual Icons) | [/other](/other)                      |
+| Misc (Stream Circle, Contextual Icons)  | [/misc](/misc)                        |
 
 ### Examples
 
@@ -38,17 +45,18 @@ Don't combine the Sablier name or logos, or any portion of any of them, with any
 
 ## Colors
 
-Sablier's main color is a vibrant orange color on a dark blue color scheme. Since V2, Sablier follows a primarily dark theme (light theme coming soon). Please use the following colors accordingly.
+Sablier's main color is a vibrant orange color on a dark blue color scheme. Sablier follows a primarily dark theme
+(light theme coming soon). Please use the following colors accordingly.
 
 | Color                 | HEX                                                                                               | Notes                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | Primary Start         | `#ff7300` <img valign='middle' src='https://readme-swatches.vercel.app/ff7300?style=circle&b=0'/> | Start point for the primary orange gradient                |
 | Primary End           | `#ffb800` <img valign='middle' src='https://readme-swatches.vercel.app/ffb800?style=circle&b=0'/> | End point for the primary orange gradient                  |
 | Primary Middle        | `#ff9C00` <img valign='middle' src='https://readme-swatches.vercel.app/ff9C00?style=circle&b=0'/> | Median value derived from the primary orange gradient      |
-| Secondary Start       | `#003dff` <img valign='middle' src='https://readme-swatches.vercel.app/003dff?style=circle&b=0'/> | Start point the primary orange gradient                    |
-| Secondary End         | `#00b7ff` <img valign='middle' src='https://readme-swatches.vercel.app/00b7ff?style=circle&b=0'/> | End point for the primary orange gradient                  |
-| Secondary Middle      | `#0063ff` <img valign='middle' src='https://readme-swatches.vercel.app/0063ff?style=circle&b=0'/> | Median value derived from the primary orange gradient      |
-| Secondary Desaturated | `#266cd9` <img valign='middle' src='https://readme-swatches.vercel.app/266cd9?style=circle&b=0'/> | Desaturated value derived from the `Secondary Desaturated` |
+| Secondary Start       | `#003dff` <img valign='middle' src='https://readme-swatches.vercel.app/003dff?style=circle&b=0'/> | Start point for the secondary blue gradient                |
+| Secondary End         | `#00b7ff` <img valign='middle' src='https://readme-swatches.vercel.app/00b7ff?style=circle&b=0'/> | End point for the secondary blue gradient                  |
+| Secondary Middle      | `#0063ff` <img valign='middle' src='https://readme-swatches.vercel.app/0063ff?style=circle&b=0'/> | Median value derived from the secondary blue gradient      |
+| Secondary Desaturated | `#266cd9` <img valign='middle' src='https://readme-swatches.vercel.app/266cd9?style=circle&b=0'/> | Desaturated value derived from the secondary blue gradient |
 | Dark 000              | `#14161f` <img valign='middle' src='https://readme-swatches.vercel.app/14161f?style=circle&b=0'/> | Background (landing)                                       |
 | Dark 050              | `#1a1d28` <img valign='middle' src='https://readme-swatches.vercel.app/1a1d28?style=circle&b=0'/> |                                                            |
 | Dark 100              | `#1e212f` <img valign='middle' src='https://readme-swatches.vercel.app/1e212f?style=circle&b=0'/> | Background (app)                                           |
@@ -70,7 +78,7 @@ Sablier's main color is a vibrant orange color on a dark blue color scheme. Sinc
 | Gray 500              | `#6a7795` <img valign='middle' src='https://readme-swatches.vercel.app/6a7795?style=circle&b=0'/> |                                                            |
 | Red                   | `#e52e52` <img valign='middle' src='https://readme-swatches.vercel.app/e52e52?style=circle&b=0'/> |                                                            |
 
-# Notes
+## Notes
 
 - The shades of black are obtained by increasing the lightness of the base `Dark 000`
 - Noise is applied on top of illustrations or covers to reduce banding in gradients, so sampled colors may differ
@@ -81,7 +89,8 @@ Sablier's main color is a vibrant orange color on a dark blue color scheme. Sinc
 
 ## NFT
 
-Every Sablier V2 stream is represented by a Hourglass NFT. Check out the [/nft](/nft/) directory for some examples of our dynamically generated designs.
+Every Sablier Lockup stream is represented by a Hourglass NFT. Check out the [/nft](/nft/) directory for some examples of
+our dynamically generated designs.
 
 | Streaming                  | Settled                     | Generic Art                            |
 | -------------------------- | --------------------------- | -------------------------------------- |
@@ -89,9 +98,10 @@ Every Sablier V2 stream is represented by a Hourglass NFT. Check out the [/nft](
 
 ## Video
 
-Sablier V2 has an official promotional video that collaborators can use to present the product in articles or other visual content pieces.
+Sablier has an official promotional video that collaborators can use to present the product in articles or other
+visual content pieces.
 
-[![Introducing Sablier V2](/other/youtube-cover.png)](https://youtu.be/0XvJ112Jf1k "Introducing Sablier V2")
+[![Introducing Sablier](/misc/youtube-cover.png)](https://youtu.be/0XvJ112Jf1k "Introducing Sablier")
 
 ## Support
 
